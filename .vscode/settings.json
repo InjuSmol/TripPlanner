@@ -1,0 +1,15 @@
+{
+    "python.pythonPath": "/usr/bin/python",
+    "files.associations": {
+        "__functional_base": "cpp",
+        "istream": "cpp",
+        "locale": "cpp",
+        "memory": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "iosfwd": "cpp",
+        "vector": "cpp",
+        "iostream": "cpp",
+        "limits": "cpp"
+    }
+}
